@@ -1,0 +1,6 @@
+{
+  "name": "IGCSE 0580: Gradient of a Curve",
+  "description": "Interactive Cambridge IGCSE Mathematics (0580) learning activity on tangents and gradients of curved graphs with step-by-step animations, worked examples, practice, and assessment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
